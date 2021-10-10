@@ -1,0 +1,1 @@
+export const extractAttributeName = (array, key) => array.map(item => item[key].name)
